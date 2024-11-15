@@ -2,6 +2,9 @@
 
 A simple and efficient finance management application designed to help users track their daily, weekly, or monthly expenses. This app allows users to add, edit, and delete financial transactions, with details such as labels, amounts, and descriptions. It uses a local database to store transaction data and provides an intuitive UI for users to manage their finances effectively.
 
+# Demo Video
+https://github.com/user-attachments/assets/814654ae-1dc0-4fcd-a5f0-4bafb6c894ae
+
 ## Features
 
 Track Expenses: Add, edit, or delete financial transactions.
